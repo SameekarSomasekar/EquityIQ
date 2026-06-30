@@ -1,0 +1,11 @@
+{
+  "lastUpdated": "2026-06-30T12:14:24.929Z",
+  "sources": {
+    "nse": "https://archives.nseindia.com/content/equities/EQUITY_L.csv",
+    "bse": "https://api.bseindia.com/BseIndiaAPI/api/ListofScripData/w?Group=&Scripcode=&industry=&segment=Equity&status=Active"
+  },
+  "total": 7272,
+  "nse": 2374,
+  "bse": 4898,
+  "commonIsinCount": 2244
+}

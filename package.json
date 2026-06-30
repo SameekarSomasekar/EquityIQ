@@ -1,0 +1,14 @@
+{
+  "name": "equityiq",
+  "version": "2.0.0",
+  "description": "EquityIQ website: delayed-live NSE/BSE equity research terminal",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "refresh:india": "node scripts/update-india-master.js",
+    "website": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
